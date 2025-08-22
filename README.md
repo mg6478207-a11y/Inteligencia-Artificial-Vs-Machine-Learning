@@ -1,2 +1,1 @@
 Repositorio del equipo para la actividad grupal.
-LA IDEA DE ESTE TALLER ES RECREAR UNA SIMULACION DE DIFERENCIAS Y APORTES DE LA IA Y ML
