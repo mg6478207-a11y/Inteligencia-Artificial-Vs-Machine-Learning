@@ -1,38 +1,3 @@
-DIFERENCIAS CLAVE ENTRE LA IA VS ML 
-
-DEFINICION DE LA IA: 
-La inteligencia artificial es una rama de la informática  
-esta se encarga de crear sistemas o programas capaces de realizar tareas que requieren inteligencia humana  
-Incluye el razonamiento para comprender una pregunta y hacia dónde quiere llevarla  
-El aprendizaje permite que la IA entienda si una pregunta es errónea y pueda corregirse  
-De esta forma mejora su capacidad de responder con el tiempo  
-También busca interpretar la perspectiva de las personas al hacer una pregunta  
-Esto está relacionado con la capacidad de aprender de la experiencia y se relaciona con el aprendizaje de esta misma 
-La toma de decisiones permite evaluar opciones y proponer soluciones a problemas planteados por humanos  
-Actualmente los ejemplos mas claros para estos sistemas son los asistentes virtuales, reconocimiento de voz e imágenes, sistemas de recomendación  
-Un ejemplo más avanzado son los vehículos autónomos  
-
-
-DEFINICION DE ML:
-la ML es una rama de la inteligencia artificial
-que esta va mas ligada hacia la parte de los uss de datos y algoritmos 
-que estos permiten que los sistemas aprendan de las experiencias 
-donde esta mejora el rendimiento dependiendo del tiempo, pero sin ser programado de forma explicita
-Ya que este estrena modelos matematicos que con el tiempo se llegaran a convertir en patrones
-Asi logrando este a futuro llegar a generar predicciones o tomas de desiciones automaticas
-El objetivo de esta es adaptarse a nuevos datos o situciaciones dependiendo el usuario
-Se aplica como clasificiacion de reconocimientos de voz vision por computadora
-Tambien en recomendaciones para llegar a perzonalizarlas y deteccciones de anomalias
-Como ejemplos que tenemos de estas, se podria llegar a hablar de:
-
-Ejemplo 1 Un sistema de correo electrónico que clasifica los mensajes como spam o no spam  
-Ejemplo 2 Plataformas de streaming que recomiendan música o películas según tus gustos  
-Ejemplo 3 Aplicaciones de traducción automática que mejoran su precisión con más uso  
-Ejemplo 4 Reconocimiento de voz en asistentes virtuales como Siri o Alexa 
-Ejemplo 5 Sistemas de visión por computadora que identifican objetos en fotografías  
-Ejemplo 6 Algoritmos que analizan historiales médicos para predecir enfermedades  
-Ejemplo 7 Vehículos autónomos que aprenden a identificar señales de tráfico y peatones  
-
 DIFERENCIAS CLAVE ENTRE IA Y ML:
 
 Diferencia 1 La IA es un concepto más amplio que busca crear sistemas inteligentes, ML es una técnica dentro de la IA  
@@ -45,3 +10,14 @@ Diferencia 7 La IA puede funcionar sin grandes cantidades de datos usando reglas
 Diferencia 8 Los sistemas de IA pueden usar ML como una herramienta, pero no todos los sistemas de IA requieren ML  
 Diferencia 9 La IA tiene un enfoque más conceptual y filosófico sobre inteligencia, ML tiene un enfoque práctico y estadístico sobre aprendizaje  
 Diferencia 10 La IA es más general y puede involucrar múltiples técnicas, ML es más específico y se centra en algoritmos de aprendizaje supervisado, no supervisado o por refuerzo  
+Diferencia 11 La IA busca imitar la inteligencia humana de manera general, ML se concentra en tareas específicas  
+Diferencia 12 La IA puede tomar decisiones basadas en múltiples factores y lógica compleja, ML toma decisiones basadas en patrones de datos  
+Diferencia 13 La IA puede combinar diferentes técnicas como reglas, lógica difusa, algoritmos genéticos y ML, ML se basa principalmente en algoritmos de aprendizaje  
+Diferencia 14 La IA puede incluir razonamiento simbólico y procesamiento del lenguaje natural, ML se centra en el análisis y predicción de datos  
+Diferencia 15 La IA puede funcionar en tiempo real sin necesidad de entrenamiento constante, ML requiere actualización y reentrenamiento con nuevos datos  
+Diferencia 16 La IA puede trabajar con poca información si tiene reglas y conocimiento previo, ML necesita grandes volúmenes de datos para aprender correctamente  
+Diferencia 17 La IA incluye sistemas expertos, planificación y robótica, ML se aplica dentro de estos sistemas para mejorar el rendimiento  
+Diferencia 18 La IA puede actuar de manera autónoma incluso sin un historial de datos, ML depende de datos históricos para hacer predicciones precisas  
+Diferencia 19 La IA tiene un enfoque más amplio y estratégico, ML tiene un enfoque más táctico y operacional  
+Diferencia 20 La IA puede incorporar emociones, creatividad y sentido común de forma simulada, ML únicamente aprende patrones y correlaciones estadísticas  
+
