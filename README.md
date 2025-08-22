@@ -6,7 +6,7 @@ El **machine learning supervisado** es un tipo de aprendizaje en el que el model
 
 Por ejemplo, si los científicos de datos estuvieran construyendo un modelo para la predicción de tornados, las variables de entrada podrían incluir la fecha, la ubicación, la temperatura, los patrones de flujo del viento y más, y el output sería la actividad real de tornados registrada para esos días.  
 
-### 🔹 Algoritmos principales
+###  Algoritmos principales
 
 - **Regresión**  
   Predicen valores numéricos o continuos (ej: temperatura, salario).  
@@ -28,7 +28,7 @@ Por ejemplo, si los científicos de datos estuvieran construyendo un modelo para
 - **Bosque aleatorio**  
   Conjunto de *árboles de decisión* que combinan sus resultados para predecir valores (regresión) o categorías (clasificación).  
 
----
+
 
 ## 2. Machine Learning No Supervisado
 
@@ -38,7 +38,7 @@ Este enfoque facilita el análisis exploratorio de datos, la segmentación de cl
 
 Entre sus métodos más comunes se encuentra el **análisis de conglomerados (clustering)**, que organiza los datos en grupos en función de su similitud.  
 
-### 🔹 Algoritmos principales
+###  Algoritmos principales
 - **K-medias**  
   Divide los datos en *k* grupos según cercanía a centroides.  
   *Usos:* segmentación de mercado, agrupación de documentos, segmentación y compresión de imágenes.  
@@ -54,7 +54,7 @@ Entre sus métodos más comunes se encuentra el **análisis de conglomerados (cl
   - *PCA (Análisis de Componentes Principales)* → reducción de dimensionalidad.  
   - *Algoritmos de asociación* → identificación de relaciones en grandes bases de datos.  
 
----
+
 
 ## 3. Aprendizaje por Refuerzo
 
