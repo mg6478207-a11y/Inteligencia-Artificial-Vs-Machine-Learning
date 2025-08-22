@@ -1,5 +1,6 @@
 DIFERENCIAS CLAVE ENTRE LA IA VS ML 
-DEFINICION DE LA IA:
+
+DEFINICION DE LA IA: 
 La inteligencia artificial es una rama de la informática  
 esta se encarga de crear sistemas o programas capaces de realizar tareas que requieren inteligencia humana  
 Incluye el razonamiento para comprender una pregunta y hacia dónde quiere llevarla  
