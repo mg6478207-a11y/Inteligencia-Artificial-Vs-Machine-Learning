@@ -8,10 +8,4 @@ La **Inteligencia Artificial (IA)** y el **Machine Learning (ML)** son disciplin
 
 Estas tecnologías han dado lugar a aplicaciones cotidianas en nuestra vida, como los asistentes virtuales, sugerencias de películas y diagnósticos médicos asistidos. Su relevancia es significativa, ya que están revolucionando la forma en que enfrentamos problemas en diversos ámbitos.  
 
----
 
-### Fuente recomendada
-IBM. (s.f.). *¿Qué es la inteligencia artificial?* y *¿Qué es el aprendizaje automático?*  
-Recuperado de:  
-- [https://www.ibm.com/es-es/topics/artificial-intelligence](https://www.ibm.com/es-es/topics/artificial-intelligence)  
-- [https://www.ibm.com/es-es/topics/machine-learning](https://www.ibm.com/es-es/topics/machine-learning)
