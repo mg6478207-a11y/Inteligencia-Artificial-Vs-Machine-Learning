@@ -1,3 +1,15 @@
+D-Conclusion
+Resumen y Conclusion
+
+La Inteligencia Artificial IA y el Machine Learning ML son disciplinas que se encuentran interconectadas aunque no son equivalentes La IA tiene como objetivo permitir que las maquinas imiten el razonamiento y comportamiento humano mientras que el ML se centra en el aprendizaje de los sistemas a partir de datos y mejora continua a traves de la experiencia
+
+Para resumir
+La IA es un concepto mas amplio que abarca cualquier tecnica que permita a una maquina pensar o hacer elecciones inteligentes
+El ML es un segmento especifico dentro de la IA que facilita el descubrimiento de patrones y el aprendizaje autonomo sin la necesidad de programacion explicita
+
+Estas tecnologias han dado lugar a aplicaciones cotidianas en nuestra vida como los asistentes virtuales sugerencias de peliculas y diagnosticos medicos asistidos Su relevancia es significativa ya que estan revolucionando la forma en que enfrentamos problemas en diversos ambitos
+
+=======
 DIFERENCIAS CLAVE ENTRE IA Y ML:
 
 Diferencia 1 La IA es un concepto más amplio que busca crear sistemas inteligentes, ML es una técnica dentro de la IA  
@@ -19,5 +31,6 @@ Diferencia 16 La IA puede trabajar con poca información si tiene reglas y conoc
 Diferencia 17 La IA incluye sistemas expertos, planificación y robótica, ML se aplica dentro de estos sistemas para mejorar el rendimiento  
 Diferencia 18 La IA puede actuar de manera autónoma incluso sin un historial de datos, ML depende de datos históricos para hacer predicciones precisas  
 Diferencia 19 La IA tiene un enfoque más amplio y estratégico, ML tiene un enfoque más táctico y operacional  
-Diferencia 20 La IA puede incorporar emociones, creatividad y sentido común de forma simulada, ML únicamente aprende patrones y correlaciones estadísticas  
+Diferencia 20 La IA puede incorporar emociones, creatividad y sentido común de forma simulada, ML únicamente aprende patrones y correlaciones estadísticas   
+main
 
