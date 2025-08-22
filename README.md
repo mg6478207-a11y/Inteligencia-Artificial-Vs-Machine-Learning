@@ -13,7 +13,6 @@ Un ejemplo más avanzado son los vehículos autónomos
 
 
 DEFINICION DE ML:
-
 la ML es una rama de la inteligencia artificial
 que esta va mas ligada hacia la parte de los uss de datos y algoritmos 
 que estos permiten que los sistemas aprendan de las experiencias 
@@ -24,6 +23,7 @@ El objetivo de esta es adaptarse a nuevos datos o situciaciones dependiendo el u
 Se aplica como clasificiacion de reconocimientos de voz vision por computadora
 Tambien en recomendaciones para llegar a perzonalizarlas y deteccciones de anomalias
 Como ejemplos que tenemos de estas, se podria llegar a hablar de:
+
 Ejemplo 1 Un sistema de correo electrónico que clasifica los mensajes como spam o no spam  
 Ejemplo 2 Plataformas de streaming que recomiendan música o películas según tus gustos  
 Ejemplo 3 Aplicaciones de traducción automática que mejoran su precisión con más uso  
