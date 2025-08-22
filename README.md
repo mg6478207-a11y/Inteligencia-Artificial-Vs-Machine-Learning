@@ -1,1 +1,1 @@
-Repositorio del equipo para la actividad grupal.
+  Tipos de Machine Learning
