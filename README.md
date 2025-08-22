@@ -1,5 +1,6 @@
 DIFERENCIAS CLAVE ENTRE LA IA VS ML 
-DEFINICION DE LA IA 
+DEFINICION DE LA IA:
+
 La inteligencia artificial es una rama de la informática  
 esta se encarga de crear sistemas o programas capaces de realizar tareas que requieren inteligencia humana  
 Incluye el razonamiento para comprender una pregunta y hacia dónde quiere llevarla  
@@ -12,7 +13,8 @@ Actualmente los ejemplos mas claros para estos sistemas son los asistentes virtu
 Un ejemplo más avanzado son los vehículos autónomos  
 
 
-DEFINICION DE ML 
+DEFINICION DE ML:
+
 la ML es una rama de la inteligencia artificial
 que esta va mas ligada hacia la parte de los uss de datos y algoritmos 
 que estos permiten que los sistemas aprendan de las experiencias 
@@ -31,7 +33,8 @@ Ejemplo 5 Sistemas de visión por computadora que identifican objetos en fotogra
 Ejemplo 6 Algoritmos que analizan historiales médicos para predecir enfermedades  
 Ejemplo 7 Vehículos autónomos que aprenden a identificar señales de tráfico y peatones  
 
-DIFERENCIAS CLAVE ENTRE IA Y ML 
+DIFERENCIAS CLAVE ENTRE IA Y ML:
+
 Diferencia 1 La IA es un concepto más amplio que busca crear sistemas inteligentes, ML es una técnica dentro de la IA  
 Diferencia 2 La IA puede incluir razonamiento, planificación y toma de decisiones, ML se enfoca en aprender de datos y patrones  
 Diferencia 3 La IA puede estar basada en reglas fijas y programación explícita, ML depende del entrenamiento con datos  
