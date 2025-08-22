@@ -13,6 +13,5 @@ En lugar de darles instrucciones exactas, les proporcionamos ejemplos para que e
 
 **Un ejemplo simple:
 Cuando Netflix te recomienda una serie parecida a las que ya viste, está usando *Machine Learning* para aprender de tus gustos y proponerte algo que probablemente también disfrutes.
-> **Fuente:** IBM. (s.f.). *¿Qué es el aprendizaje automático?*  
-> Recuperado de: [https://www.ibm.com/es-es/topics/machine-learning](https://www.ibm.com/es-es/topics/machine-learning)
+
 
